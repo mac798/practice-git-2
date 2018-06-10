@@ -1,1 +1,2 @@
 First file content
+Additional line for commit 2
