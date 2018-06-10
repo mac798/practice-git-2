@@ -1,5 +1,5 @@
 ### Задание на  слайде 34
-`
+```
 git init
 echo "First file initial content" >first-file.txt
 git add .
@@ -33,5 +33,5 @@ git log --all --decorate --oneline --graph
 * 91a93f7 Third commit (Commit 3)
 * 4a92159 Second commit (Commit 2)
 * cc56cf8 Initial commit (Commit1)
-`
+```
 
